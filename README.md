@@ -1,6 +1,6 @@
 # Introductory Workshop on Graphs
 
-## Workshop 1
+## Workshop 1 (9th February, 2022)
 
 We cover the basic concepts of graphs using a real-life example.
 
